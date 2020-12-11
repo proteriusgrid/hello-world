@@ -1,0 +1,11 @@
+<snippet>
+	<content> 
+		<![CDATA[[
+		<div class="row"> 
+			<div class="col-xs-12"> 
+			
+			</div>
+			</div>
+		]]></content>
+		<tabTrigger>hello</tabTrigger>
+</snippet>
